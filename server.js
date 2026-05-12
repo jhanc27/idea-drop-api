@@ -16,7 +16,7 @@ connectDB();
 
 const allowedOrigins = [
   'http://localhost:3000',
-  'https://idea-drop-ui-mauve-mu.vercel.app',
+  'https://idea-drop-ui-mauve-mu.vercel.app/',
 ];
 
 app.use(
